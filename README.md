@@ -9,10 +9,9 @@ I enjoy building systems that are testable, observable, and scalable by design, 
 ### 💻 What I work with
 - **Languages:** Python  
 - **Backend:** Flask, REST APIs  
-- **Automation:** Robot Framework, custom automation tools  
+- **Automation:** Custom automation tools  
 - **Streaming:** OTT / HLS, M3U8 validation  
 - **Cloud:** AWS (monitoring, deployments, operations)  
-- **Mindset:** Quality-first engineering
 ---
 
 ### 🎯 Current Focus
