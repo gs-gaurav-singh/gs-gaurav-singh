@@ -1,5 +1,5 @@
 # Hi there, I'm Gaurav 👋 
-I’m a Lead Engineer / Automation Developer (Backend) with 3.5+ years of experience across Quality Assurance, backend automation, and cloud platforms. My career began in QA, where I built a strong foundation in product quality, testing strategy, and failure analysis, and has since evolved into engineering backend systems and automation tools for real-world platforms.
+I’m a Lead Engineer / Automation Developer (Backend) with 4+ years of experience across Quality Assurance, backend automation, and cloud platforms. My career began in QA, where I built a strong foundation in product quality, testing strategy, and failure analysis, and has since evolved into engineering backend systems and automation tools for real-world platforms.
 
 I currently work on designing and developing automation and backend services that support quality validation, monitoring, and reliability for cloud-based OTT platforms. My work involves Python-based backend development, API design, live HLS (M3U8) stream validation, and operating systems across cloud environments.
 
