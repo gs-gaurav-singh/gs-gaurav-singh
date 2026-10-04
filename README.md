@@ -1,9 +1,8 @@
 # Hi there, I'm Gaurav 👋 
-I’m a Lead Engineer / Automation Developer (Backend) with 4+ years of experience across Quality Assurance, backend automation, and cloud platforms. My career began in QA, where I built a strong foundation in product quality, testing strategy, and failure analysis, and has since evolved into engineering backend systems and automation tools for real-world platforms.
+Growth Oriented Professional with 4.5+ years of Quality & Software engineering experience at Samsung R&D, progressing
+from Hardware & Software Quality Assurance into Python backend development
 
-I currently work on designing and developing automation and backend services that support quality validation, monitoring, and reliability for cloud-based OTT platforms. My work involves Python-based backend development, API design, live HLS (M3U8) stream validation, and operating systems across cloud environments.
-
-I enjoy building systems that are testable, observable, and scalable by design, combining a QA mindset with engineering execution.
+Currently developing Python- and Flask-based backend solutions for Samsung TV Plus, including HLS (M3U8) stream monitoring tools, AWS-based data validation workflows, REST APIs, and operational dashboards.
 
 ---
 ### 💻 What I work with
